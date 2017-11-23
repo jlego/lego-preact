@@ -1,1 +1,1 @@
-# legojs2
+# lego-preact
